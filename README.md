@@ -234,9 +234,7 @@ buddy,s project/
 - Cloud backup
 - Multi-location support
 
-## 📄 License
-
-This project is open source and available for educational and commercial use.
+##
 
 ## 👨‍💻 Support
 
@@ -244,4 +242,3 @@ For issues or questions, please check the code comments or create an issue in th
 
 ---
 
-**Built with ❤️ for efficient mess management**
